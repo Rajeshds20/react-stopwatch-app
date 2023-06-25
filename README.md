@@ -14,7 +14,7 @@ This is a stopwatch application built with React. It allows you to create multip
   1. Clone the repository:
 
   ```bash
-  git clone https://github.com/your-username/react-stopwatch-app.git
+  git clone https://github.com/rajeshds20/react-stopwatch-app.git
   ```
   
   2. Navigate to the project directory:
